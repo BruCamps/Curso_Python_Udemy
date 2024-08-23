@@ -10,4 +10,5 @@
 | 3 | [Função print()](./Notes/3-Funcaoprint.md) |
 | 4 | [Tipos de Dados](./Notes/4-TiposdeDados.md) |
 | 5 | [Coerção de Tipos](./Notes/5-CoercaodeTipos.md) |
+| 6 | [Introdução a Variáveis](./Notes/6-IntroducaoaVariaveis.md) |
 
