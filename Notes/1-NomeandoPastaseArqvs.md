@@ -53,11 +53,15 @@
 Curso\Python\Modulo1
 ```
 
-<img alt="Exemplos usando hífen e underline em nome de arquivos" src="../Images/README/exampleBarras1.png"/><br>
+<img alt="Exemplos usando hífen e underline em nome de arquivos" src="../Images/README/exampleBarras01.png"/><br>
+
+> Utilize a partir da opção "Nova Pasta" no VSCode
 
 <i>Pasta que contém um arquivo python</i>
 ```
 CursoPython/aula1.py
 ```
 
-<img alt="Exemplos usando hífen e underline em nome de arquivos" src="../Images/README/exampleBarras2.png"/><br>
+<img alt="Exemplos usando hífen e underline em nome de arquivos" src="../Images/README/exampleBarras02.png"/><br>
+
+> Utilize a partir da opção "Novo Arquivo" no VSCode
