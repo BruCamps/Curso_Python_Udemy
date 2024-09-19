@@ -62,9 +62,9 @@ c = 1.1
 
 string = 'b={nome2} a={nome1} a={nome1} c={nome3:.2f}' # Colocado em uma variável separada para melhor visualização
 formato = string.format(
-      nome1=a,
-      nome2=b,
-      nome3=c # nome3 -> Parâmetro | c -> Argumento
+      nome1=a,       # Parâmetro -> nome1 |  Argumento -> a
+      nome2=b,       # Parâmetro -> nome2 |  Argumento -> b
+      nome3=c        # Parâmetro -> nome3 |  Argumento -> c
 )
 
 print(formato)
