@@ -36,7 +36,7 @@ print(f'\nA soma dos números é {int_numero_1 + int_numero_2}\n')
 ```
 
 > [!TIP]
-> Caso seja necessário em sua aplicação fazer a verificação da resposta dada pelo usuário, a 1ª forma não é recomendada.
+> Caso seja necessário em sua aplicação fazer a verificação sobre o que foi digitado, a 1ª forma não é recomendada.
 
 ### Forma nº 2 (conversão indireta)
 
