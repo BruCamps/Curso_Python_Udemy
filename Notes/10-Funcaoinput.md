@@ -26,6 +26,7 @@ print(f'O seu nome é {nome=}\n')
 
 ![alt text](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Images/image-1.png)
 
+<br>
 
 ### Como receber números em um input
 Toda resposta em um input é string por padrão, e para que seja reconhecida como um número, devemos fazer a [conversão de tipo](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Notes/5-CoercaodeTipos.md).
