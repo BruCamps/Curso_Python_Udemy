@@ -43,9 +43,10 @@ print(formato)
 ```
 
 ### Tá, mas... porque 0, 1 e 2? Não são 3 elementos?
-![image](https://github.com/user-attachments/assets/a7b93ef4-69be-421f-9e09-4db805b58511)
 
-Em lógica de programação quando nos referimos aos índices (posições), começamos a contar a partir do número 0, o que significa que o primeiro elemento sempre será 0, o segundo 1 e o terceiro 2, e assim por diante.
+![image](https://github.com/user-attachments/assets/ff271187-699b-41fb-9c30-354e8f21d1c3)
+
+Em lógica de programação quando nos referimos aos índices (posições), começamos a contar a partir do número 0, o que significa que o primeiro elemento sempre será 0, o segundo 1, o terceiro 2, e assim por diante.
 
 -----
 
