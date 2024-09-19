@@ -13,7 +13,7 @@ nome = input("\nQual é o seu nome? ")
 print(f'O seu nome é {nome}\n')
 ```
 
-![alt text](image.png)
+![alt text](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Images/image.png)
 
 
 ```python
@@ -21,7 +21,7 @@ nome = input("\nQual é o seu nome? ")
 print(f'O seu nome é {nome=}\n')
 ```
 
-![alt text](image-1.png)
+![alt text](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Images/image-1.png)
 
 Para receber números em um input, siga o exemplo abaixo:
 
