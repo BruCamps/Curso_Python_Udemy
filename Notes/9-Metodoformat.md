@@ -1,6 +1,8 @@
 # Método format()
 Esta é outra maneira de formatarmos objetos dentro do Python.
 
+<br>
+
 > [!NOTE]
 > Tudo em Python é objeto, porque eles geralmente tem métodos dentro dele, o que o permite realizar ações.
 
