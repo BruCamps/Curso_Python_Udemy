@@ -6,6 +6,8 @@ input("Digite algo -> ")
 # Saída: Digite algo ->
 ```
 
+<br>
+
 Podemos passar essa função para uma variável
 
 ```python
@@ -15,6 +17,7 @@ print(f'O seu nome é {nome}\n')
 
 ![alt text](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Images/image.png)
 
+<br>
 
 ```python
 nome = input("\nQual é o seu nome? ")
@@ -23,8 +26,11 @@ print(f'O seu nome é {nome=}\n')
 
 ![alt text](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Images/image-1.png)
 
+
 ### Como receber números em um input
-Toda resposta em um input é string por padrão, e para que seja reconhecida como um número, devemos fazer a conversão de tipo.
+Toda resposta em um input é string por padrão, e para que seja reconhecida como um número, devemos fazer a [conversão de tipo](https://github.com/BruCamps/Curso_Python_Udemy/blob/main/Notes/5-CoercaodeTipos.md).
+
+<br>
 
 ### Forma nº 1 (conversão direta)
 
@@ -35,8 +41,12 @@ numero_2 = int(input("\nDigite outro número: ")) # Converte para inteiro SOMENT
 print(f'\nA soma dos números é {int_numero_1 + int_numero_2}\n')
 ```
 
+<br>
+
 > [!TIP]
 > Se for necessário verificar o que foi digitado pelo usuário, a 1ª forma não é recomendada.
+
+<br>
 
 ### Forma nº 2 (conversão indireta)
 
