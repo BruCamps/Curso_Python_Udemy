@@ -7,7 +7,7 @@
 primeiro_valor = input('\nDigite o primeiro valor: ')
 segundo_valor = input('Digite o segundo valor: ')
 
-if primeiro_valor > segundo_valor:  # Verifica se o primeiro valor é maior do que o segundo
+if primeiro_valor >= segundo_valor:  # Verifica se o primeiro valor é maior ou igual ao segundo
   print(f'\nO {primeiro_valor=} é maior do que o {segundo_valor=}\n')
 else:
   print(f'\nO {segundo_valor=} é maior do que o {primeiro_valor=}\n')
